@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TestProject1
+namespace TestProject
 {
     using Enums;
     using Shouldly;
